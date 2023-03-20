@@ -4,13 +4,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Development Setup
 # Prerequisites
-Install Node.js https://nodejs.org/en which includes Node Package Manager<br>
-Setting Up a Project<br>
+Install [Node.js](https://nodejs.org/en) which includes Node Package Manager<br>
+# Setting Up a Project<br>
+
 Install the Angular CLI globally:<br>
 npm install -g @angular/cli
 
 # Create workspace:<br>
-ng new [PROJECT NAME]<br>
+ng new [PROJECT NAME]<br><br>
 Run the application:<br>
 
 cd [PROJECT NAME]<br>

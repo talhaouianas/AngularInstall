@@ -2,6 +2,20 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.0.
 
+# Development Setup
+# Prerequisites
+Install Node.js which includes Node Package Manager
+Setting Up a Project
+Install the Angular CLI globally:
+npm install -g @angular/cli
+# Create workspace:
+ng new [PROJECT NAME]
+Run the application:
+
+cd [PROJECT NAME]
+ng serve
+Angular is cross-platform, fast, scalable, has incredible tooling, and is loved by millions.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.

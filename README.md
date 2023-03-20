@@ -2,21 +2,36 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.0.
 
-# Development Setup
-# Prerequisites
-Install [Node.js](https://nodejs.org/en) which includes Node Package Manager<br>
-# Setting Up a Project<br>
+## Development Setup
 
-Install the Angular CLI globally:<br>
+
+### Prerequisites
+
+- Install [Node.js](https://nodejs.org/en) which includes [Node Package Manager][npm]
+
+### Setting Up a Project
+
+Install the Angular CLI globally:
+
+```
 npm install -g @angular/cli
+```
 
-# Create workspace:<br>
-ng new [PROJECT NAME]<br><br>
-Run the application:<br>
+Create workspace:
 
-cd [PROJECT NAME]<br>
-ng serve<br>
+```
+ng new [PROJECT NAME]
+```
+
+Run the application:
+
+```
+cd [PROJECT NAME]
+ng serve
+```
+
 Angular is cross-platform, fast, scalable, has incredible tooling, and is loved by millions.
+
 
 ## Development server
 
